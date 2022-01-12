@@ -339,9 +339,9 @@ Okay, _now_ we're ready to build out functions:
   array of the team names.
 - Build a function, `playerNumbers`, that takes in an argument of a team name
   and returns an array of the jersey number's for that team.
-- Build a function, `playerStats`, that takes in an argument of a player's name
+- Build a function, `layerStats`, that takes in an argument of a player's name
   and returns a object of that player's stats. Check out the following example
-  of the expected return value of the `playerStats` function:
+  of the expected return ;' value of the `playerStats` function:
 
 ```js
 playerStats("Alan Anderson")
